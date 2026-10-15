@@ -1,0 +1,6 @@
+{
+  "name": "FF DATA INJECTOR",
+  "description": "Professional file manager and injector for official Free Fire Android game data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
